@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+
+Purpose:
+- requests – Fetches website data.
+- beautifulsoup4 – Extracts information from HTML.
+- pandas – Organizes scraped data into a CSV file.
+
